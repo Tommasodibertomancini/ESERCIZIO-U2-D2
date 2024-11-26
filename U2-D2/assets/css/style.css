@@ -248,6 +248,7 @@ iframe {
     width: 50%;
     margin-inline: -2px;
     vertical-align: middle;
+    margin-top: 30px;
   }
 
   section {
